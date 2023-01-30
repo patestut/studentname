@@ -7,17 +7,17 @@ public class PrintStudentLife {
     {
        Student[] list = new Student[4];
        Student s1 = new Student();
-       s1.setName("peter");
-       s1.setAge(23);
+       s1.setName("Stuti");
+       s1.setAge(19);
        Student s2 = new Student();
-       s2.setName("ranbir");
-       s2.setAge(23);
+       s2.setName("Tressa");
+       s2.setAge(19);
        Student s3 = new Student();
-       s3.setName("vani");
-       s3.setAge(20);
+       s3.setName("Heli");
+       s3.setAge(18);
        Student s4 = new Student();
-       s4.setName("vani");
-       s4.setAge(20);
+       s4.setName("Anreet");
+       s4.setAge(18);
        list[0]=s1;
        list[1]=s2;
        list[2]=s3;
