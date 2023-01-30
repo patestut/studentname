@@ -12,7 +12,7 @@ public class PrintStudentLife {
      */
     public static void main(String[] args) 
     {
-       Student[] list = new Student[3]; // array of objects
+       Student[] list = new Student[4]; // array of objects
        //create object fro 3 student , store and print value
        Student s1 = new Student();
        s1.setName("peter");
@@ -23,9 +23,13 @@ public class PrintStudentLife {
        Student s3 = new Student();
        s3.setName("vani");
        s3.setAge(20);
+       Student s4 = new Student();
+       s4.setName("vani");
+       s4.setAge(20);
        list[0]=s1;
        list[1]=s2;
        list[2]=s3;
+       list[3]=s4;
        for(int i=0;i<list.length;i++ )
        {
            System.out.println(list[i].getName() + list[i].getAge());
