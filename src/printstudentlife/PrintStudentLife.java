@@ -1,8 +1,5 @@
-
 package printstudentlife;
-
 public class PrintStudentLife {
-
     public static void main(String[] args) 
     {
        Student[] list = new Student[3];
@@ -23,5 +20,4 @@ public class PrintStudentLife {
            System.out.println(list[i].getName() + list[i].getAge());
        }
     }
-    
 }
