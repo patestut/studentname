@@ -3,7 +3,7 @@ package printstudentlife;
 public class PrintStudentLife {
     
     public static void main(String[] args) {
-        Student[] list = new Student[5];
+        Student[] list = new Student[3];
         Student s1 = new Student();
         s1.setName("Stuti");
         s1.setAge(19);
