@@ -2,7 +2,7 @@ package printstudentlife;
 
 /** model class - raw data of entity
  * mvc design - view , controller
- * @author srinivsi
+ * @author spate
  */
 public class Student
 {

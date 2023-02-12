@@ -14,7 +14,7 @@ public class PrintStudentLife {
        s2.setAge(19);
        Student s3 = new Student();
        s3.setName("Heli");
-       s3.setAge(19);       
+       s3.setAge(18);       
        list[0]=s1;
        list[1]=s2;
        list[2]=s3;
