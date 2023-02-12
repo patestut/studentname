@@ -16,7 +16,7 @@ public class PrintStudentLife {
         Student s4 = new Student();
         s4.setName("Sumandeep");
         s4.setAge(19);
-        Studnet s5 = new Student();
+        Student s5 = new Student();
         s5.setName("Anreet");
         s5.setAge(18);
         list[0] = s1;
